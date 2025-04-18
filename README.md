@@ -1,29 +1,19 @@
-# ff14-tools
+# FF14 Raid Assistant
 
-This template should help get you started developing with Vue 3 in Vite.
+一个为《最终幻想14》玩家设计的副本攻略辅助工具，帮助玩家更好地理解和练习副本机制。
 
-## Recommended IDE Setup
+作者刚刚脱芽，仅仅经历了极永恒女王，所以更新并不确定，并且仅仅支持一些副本内较难的机制进行练习。
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 当前支持的副本
 
-## Customize configuration
+- 永恒女王忆想歼灭战-冰阶段练习
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 技术栈
 
-## Project Setup
+- Vue 3
+- Tailwind CSS 4
+- Vite
 
-```sh
-npm install
-```
+## 许可证
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+MIT License
