@@ -7,6 +7,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/FF14-Raid-Assistant/',
   plugins: [
     vue(),
     vueDevTools(),

@@ -243,8 +243,8 @@ const crystalMappings = {
   'M4': { ice: '1', point: '2' },
   'L1': { ice: '4', point: '8' },
   'L2': { ice: '2', point: '7' },
-  'R1': { ice: '1', point: '4' },
-  'R2': { ice: '3', point: '3' },
+  'R1': { ice: '3', point: '4' },
+  'R2': { ice: '1', point: '3' },
 }
 
 const startNewRound = () => {
