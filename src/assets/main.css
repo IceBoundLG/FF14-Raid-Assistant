@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+/* 移除所有默认样式 */
